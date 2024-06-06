@@ -33,9 +33,5 @@ Dataset files:
 * **training_split**:  train + validation 
 * **training_split_proc**: train + validation after the processing
 
-## Folders structure and files description
-The folder structure is the same for each dataset. For simplicity, we will use the TI_IMM dataset as an example, with only one patient and their files.
-
-
 ## Packages requirements
 Contained in requirements.txt
