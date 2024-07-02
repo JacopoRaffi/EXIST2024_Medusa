@@ -14,7 +14,7 @@
 Sexism remains a significant barrier to women's advancement, particularly evident in the realm of online interactions where women frequently encounter abuse and threats. This work addresses the "EXIST 2024" challenge, which aims to detect and categorize sexist content on social media. Specifically, the task focuses on identifying and classifying sexist tweets into predefined categories. Using a dataset of over 10,000 tweets in both English and Spanish, the study trained neural networks employing "Binary Relevance" and "Classifier Chain" architectures. The top-performing model from this study, designated "RoBEXedda," will represent the team in the challenge.
 
 ## Scripts and dataset files
-This is the list of R scripts, the usage is commented on top of every script.
+This is the list of Python scripts:
 * **algorithms.py**: auxiliary functions for the processing and evaluation 
 * **data_processing.ipynb**: performs the preprocessing operations on the datasets
 * **data_understanding.ipynb**: analyses of the statistics of the dataset
